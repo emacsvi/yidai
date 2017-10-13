@@ -27,12 +27,12 @@ tags:
 - 区块(**block**): 记录一段时间内发生的所有交易和状态结果，是对当前账本状态的一次共识
 - 链(**chain**): 由区块按照发生顺序串联而成，是整个账本状态变化的日志记录
 
-![区块链组成结构](/images/区块链组成结构.png)
+![区块链组成结构](http://emacsvi.com/images/blockchainCompose.png)
 
 
 ## 比特币地址生成过程
 
-![](/images/bitcoinAddress.png)
+![](http://emacsvi.com/images/bitcoinAddress.png)
 
 ```
 Private key:  40073635e80aaad35d9481d49388fc6fb1f55a260c9eba36e03c62b123eb7dac
@@ -49,7 +49,7 @@ Signed:	483045022100bf6a53f9524fac95b26a1fa9af423f1c5a1a6cf9a80e0b8c961c212f7411
 ## 交易
 
 
-![Bitcoin_tx_example](/images/Bitcoin_tx_example.png)
+![Bitcoin_tx_example](http://emacsvi.com/images/Bitcoin_tx_example.png)
 
 
 ## UTXO理解
@@ -62,4 +62,4 @@ Signed:	483045022100bf6a53f9524fac95b26a1fa9af423f1c5a1a6cf9a80e0b8c961c212f7411
 
 比特币脚本系统是一个图灵非完备的简单系统。但是正是这个简单系统完成了比特币的价值转移。
 
-![scriptSig1](/images/scriptSig1.png)
+![scriptSig1](http://emacsvi.com/images/scriptSig1.png)
